@@ -1,6 +1,8 @@
 <resources>
+
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorBlue">#0000FF</color>
     <color name="colorAccent">#FF4081</color>
     <!-- adding color for blue feature -->
     <color name="colorRedFeature">#FF0000</color>
